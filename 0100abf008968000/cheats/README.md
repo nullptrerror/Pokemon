@@ -4,7 +4,7 @@ TID: `0100ABF008968000`
 | BID(S)                                                                                                                                               |
 |------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `1.0.0` [download here - **490648316cc1ccdc.txt**](https://github.com/nullptrerror/Pokemon/blob/master/0100abf008968000/cheats/490648316cc1ccdc.txt) |
-| `1.0.0` [download here - **490648316cc1ccdc.txt**](https://github.com/nullptrerror/Pokemon/blob/master/0100abf008968000/cheats/490648316cc1ccdc.txt) |
+| `1.1.0` [download here - **8dafedbb5be81c2c.txt**](https://github.com/nullptrerror/Pokemon/blob/master/0100abf008968000/cheats/8dafedbb5be81c2c.txt) |
 
 
 ## First Time?
